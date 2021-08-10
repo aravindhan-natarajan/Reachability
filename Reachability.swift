@@ -3,7 +3,6 @@
 //  AxaOneHealth
 //
 //  Created by Aravindhan Natarajan on 12/06/21.
-//  Copyright © 2021 Mohammed Junaid. All rights reserved.
 //
 
 import SystemConfiguration
