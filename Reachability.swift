@@ -1,6 +1,6 @@
 //
 //  Reachability.swift
-//  AxaOneHealth
+//  TataCliQ
 //
 //  Created by Aravindhan Natarajan on 12/06/21.
 //
